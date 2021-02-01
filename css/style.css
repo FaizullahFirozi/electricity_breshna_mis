@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 100%;
+}
+
+#banner {
+  margin-top: 55px;
+  height: 150px;
+  background-image: url(../images/thems/Untitled.png);
+}
+
+#bannerh1 {
+  font-size: 30px;
+  margin-top: -60px;
+  color: aqua;
+}
+
+#menu {
+}
+
+#nav-bar {
+  min-height: 500px;
+}
+
+#nav-bar a {
+  display: block;
+  margin-bottom: 10px;
+
+  text-align: left;
+  padding-left: 20px;
+}
+
+#content {
+  min-height: 750px;
+  background-image: url(../images/thems/img10.jpg);
+}
+
+#footer {
+  min-height: 40px;
+  background-color: slategrey;
+  padding-top: 10px;
+  color: white;
+}
+
+#footer span:hover {
+  color: springgreen;
+  cursor: pointer;
+  font-size: large;
+}
+
+#login {
+  margin: 0 auto;
+  margin-top: 20px;
+  padding: 20px;
+  width: 400px;
+  min-height: 200px;
+  border-radius: 20px;
+  box-shadow: 0 0 8px 5px #09ff;
+  background-color: rgba(22, 55, 99, 0.5);
+}
+
+.input-group {
+  margin-bottom: 10px;
+}
+
+.panel {
+  margin-top: 20px;
+}
+
+.panel-heading h1 {
+  font-size: 25px;
+  margin: 0;
+}
+.amazingslider-wrapper {
+  padding-top: 140px;
+}
+
+table.list td,
+table.list th {
+  padding: 10px 5px;
+  border-bottom: 2px dotted #ffc504;
+}
+table.list {
+  margin-right: 50px;
+  margin-left: 50px;
+}

@@ -1,0 +1,8 @@
+page د
+د  پارامتر په خاطر نو مسیجونه مونږ ته نه ښکاره کوی
+
+in employee list when i add page url other massages don't show for me...
+
+
+
+hr = Human Resource
